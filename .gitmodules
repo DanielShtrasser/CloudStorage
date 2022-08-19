@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://git.heroku.com/young-bastion-69344.git
+[submodule "client"]
+	path = client
+	url = https://git.heroku.com/ulbi-cloud-storage.git
